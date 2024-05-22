@@ -1,0 +1,8 @@
+th, td {
+    border: 1px solid #b1314b;
+    padding:3px;
+    text-align: center;
+}
+th {
+    background-color:green;
+}
